@@ -58,7 +58,7 @@ Features
 * Right Click to get edit context menu
 
 ## Contributing
-![](https://github.com/RAHUL-ROSHAN-G)
-![](https://github.com/smsraj2001)
-![](https://github.com/rohan-chandrashekar)
-![](https://github.com/ROHIT-ROSHAN)
+![RAHUL ROSHAN G](https://github.com/RAHUL-ROSHAN-G)
+![SMS SUTHARSAN RAJ](https://github.com/smsraj2001)
+![ROHAN CHANDRASHEKAR](https://github.com/rohan-chandrashekar)
+![ROHIT ROSHAN](https://github.com/ROHIT-ROSHAN)
