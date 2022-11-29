@@ -78,6 +78,6 @@ Features
 
 ## Contributing
 * [RAHUL ROSHAN G](https://github.com/RAHUL-ROSHAN-G)
-* [SMS SUTHARSAN RAJ](https://github.com/smsraj2001)
+* [S M SUTHARSAN RAJ](https://github.com/smsraj2001)
 * [ROHAN CHANDRASHEKAR](https://github.com/rohan-chandrashekar)
 * [ROHIT ROSHAN](https://github.com/ROHIT-ROSHAN)
