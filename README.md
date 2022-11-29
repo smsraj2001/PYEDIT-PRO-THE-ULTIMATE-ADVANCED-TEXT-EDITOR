@@ -10,6 +10,8 @@ This Text Editor is a simple python tkinter based text editor application lashed
 * Arithmetic functions
 * Regex Search
 * Cool themes
+* Saying content after saving
+* Intro audio 
 
 ## Requirements
 
@@ -17,6 +19,23 @@ pywin32 : Use the package manager [pip](https://pip.pypa.io/en/stable/) to insta
 
 ```bash
 pip install pywin32
+```
+
+playsound: Use the package manager [pip](https://pypi.org/project/playsound/) to install playsound
+
+```bash
+pip install playsound
+```
+pyttsx3: Use the package manager [pip](https://pypi.org/project/pyttsx3/) to install playsound
+
+```bash
+pip install pyttsx3
+```
+
+gTTs: Use the package manager [pip](https://pypi.org/project/gTTS/) to install playsound
+
+```bash
+pip install gTTS
 ```
 
 ## Usage
