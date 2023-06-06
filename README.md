@@ -73,7 +73,6 @@ Features
     To use regex search, press Ctrl + R to open the regex search dialog box, type your regex without r or enclosing quotes to make the best possible match
 * Themes:
 	To change themes, select themes from menu bar and select your favorite theme.
-
 * Right Click to get edit context menu
 
 ## Contributing
