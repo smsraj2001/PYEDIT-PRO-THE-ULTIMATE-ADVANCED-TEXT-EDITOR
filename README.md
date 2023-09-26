@@ -24,7 +24,7 @@ pip install pywin32
 playsound: Use the package manager [pip](https://pypi.org/project/playsound/) to install playsound
 
 ```bash
-pip install playsound
+pip install playsound==1.2.2
 ```
 pyttsx3: Use the package manager [pip](https://pypi.org/project/pyttsx3/) to install playsound
 
@@ -37,6 +37,13 @@ gTTs: Use the package manager [pip](https://pypi.org/project/gTTS/) to install p
 ```bash
 pip install gTTS
 ```
+
+## How to run python code in Code editor
+### To run a save file u need to save twice (first time while entering your file name and saving and after that pressing saving button)
+https://github.com/RAHUL-ROSHAN-G/ADVANCED-TEXT-EDITOR/assets/103802956/5020a242-1676-471d-8bfb-08d7ee1a9e94
+
+
+
 
 ## Usage
 
