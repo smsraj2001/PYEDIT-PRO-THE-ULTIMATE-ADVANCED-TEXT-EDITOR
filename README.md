@@ -39,9 +39,11 @@ pip install gTTS
 ```
 
 ## How to run python code in Code editor
-```
-First click run button then click save button and save the file(with appropriate extensions that is .py) and press run button.
-```
+### To run a save file u need to save twice (first time while entering your file name and saving and after that pressing saving button)
+https://github.com/RAHUL-ROSHAN-G/ADVANCED-TEXT-EDITOR/assets/103802956/5020a242-1676-471d-8bfb-08d7ee1a9e94
+
+
+
 
 ## Usage
 
