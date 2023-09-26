@@ -287,6 +287,7 @@ class TextEditor(tk.Tk):
 		top.configure(bg="#323836")
 		top.resizable(False, False)
 
+		global file_path
 		file_path = ''
 
 		def set_file_path(path):
@@ -304,19 +305,24 @@ class TextEditor(tk.Tk):
 				code_input.delete('1.0', END)
 				code_input.insert('1.0', code)
 				set_file_path(file_path)
+				
+			# file_path = asksaveasfilename(filetypes=[('Python Files', '*.py')])
 			print("from opn function: ",file_path)
 		
 		def save():
 			global file_path
+			print(file_path)
 			if file_path == '':
-				path = asksaveasfilename(filetypes=[('Python Files', '*.py')])
+				file_path = asksaveasfilename(filetypes=[('Python Files', '*.py')])
 			else:
 				path = file_path
-			with open(path, 'w') as file:
-				code = code_input.get('1.0', END)
-				file.write(code)
-				set_file_path(path)
-			print("from save function: ",file_path)
+				with open(path, 'w') as file:
+					code = code_input.get('1.0', END)
+					file.write(code)
+					set_file_path(path)
+					print("from save function: ",path)
+
+			
 
 
 		def run():
