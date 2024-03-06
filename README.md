@@ -82,6 +82,8 @@ Features
 	To change themes, select themes from menu bar and select your favorite theme.
 * Right Click to get edit context menu
 
+``` NOTE: ``` The following is the .exe file for our text editor created using ```auto-py-to-exe``` python module. This can be installed in the Windows OS. [Click Here](https://drive.google.com/file/d/18hULZAVDnz0rvuv6FMjXuW1uerrs-HBn/view?usp=drive_link)
+
 ## Contributing
 * [RAHUL ROSHAN G](https://github.com/RAHUL-ROSHAN-G)
 * [S M SUTHARSAN RAJ](https://github.com/smsraj2001)
